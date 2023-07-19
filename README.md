@@ -22,3 +22,7 @@ The following techniques have been used:
 - Add the fetch_housing_data() - Code line to the code
 - housing = load_housing_data - Has missing brackets at the end add them
 - python nonstandardcode.py
+
+## To format the code
+- Install black, isort, flake8 in your working environment
+- Run flake8 <file_name.py> to check errors
