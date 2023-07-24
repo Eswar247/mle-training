@@ -1,0 +1,17 @@
+{
+    "python.defaultInterpreterPath": "~/miniconda3/envs/mle-dev/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=120"
+    ],
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.codeActionsOnSave": {
+        "python.linting.flake8Enabled": true,
+        "python.linting.enabled": true,
+        "files.trimTrailingWhitespace": true
+    },
+    "editor.formatOnSave": true
+}
